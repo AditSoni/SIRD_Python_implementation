@@ -2,7 +2,7 @@
 
 Implemented the SIRD model of epidemic prediction using Python
 
-The code is implemented via jupyter-notebook
+The code is implemented in jupyter-notebook
 
 
 SIRD.pdf contains the paper of the implementation 
